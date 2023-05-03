@@ -2,6 +2,7 @@
 
 ## Projeto criado utilizando o Github e Github desktop
 
-Curso de Github
+Salomão Borges - 3 Ano A
 
- 
+
+ Arquivo alterado por Andrey Orechio
